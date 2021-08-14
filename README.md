@@ -7,6 +7,10 @@ This is a project of a creating a web page looking almost like Instagram, Create
 
 # DEMO
 
+![Instagram-Signup](https://user-images.githubusercontent.com/62182820/129438614-b166c609-848f-443f-906b-0ac7704fe0bf.PNG)
+
+
+
 
 # Deployed Link
 
