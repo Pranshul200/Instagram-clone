@@ -15,6 +15,8 @@ This is a project of creating a web page looking almost like Instagram, Created 
 
 ![Instagram-clone](https://user-images.githubusercontent.com/62182820/129438654-19d4964a-f37f-40fa-ba0a-2a2ff5d4d98e.PNG)
 
+![Instagram-clone2](https://user-images.githubusercontent.com/62182820/129438776-40e8f5d1-1f41-449d-b187-f28b9cc964b1.PNG)
+
 
 # TECHNOLOGIES
 Project created using Reactjs Including :
